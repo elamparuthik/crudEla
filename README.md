@@ -3,16 +3,16 @@ crud
 
 
 
-error-source
+error-source=>
 	org.springframework.beans.factory.annotation.Autowired
 
-solution
+solution=>
 	jar not found added maven dependency
 
-error-source
+error-source=>
 	unknown provider
 
-solution
+solution=>
 	jar not found added maven dependency
 
 
